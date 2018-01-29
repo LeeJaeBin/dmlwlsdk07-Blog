@@ -26,7 +26,7 @@
             }
             ?>
         </ul>
-        <ul class="security_ul">
+        <ul class="security_ul"> 
         <?php
             $sql = "SELECT MAX(n) AS alias FROM `develop`";
             $result = mysqli_query($conn, $sql);

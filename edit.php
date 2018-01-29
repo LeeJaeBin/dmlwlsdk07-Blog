@@ -5,7 +5,7 @@
     require("config.php");
     $conn = mysqli_connect($dbHost, $dbUser, $dbPassword, $dbName);
     mysqli_set_charset($conn, "utf8");
-    if(isset($_GET['text'])){
+    if(isset($_GET['text'])){ 
         $text = mysqli_real_escape_string($conn, $_GET['text']);
         $title = mysqli_real_escape_string($conn, $_GET['title']);
         $category = mysqli_real_escape_string($conn, $_GET['category']);
