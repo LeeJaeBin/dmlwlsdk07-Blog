@@ -23,7 +23,7 @@
                 $n = $_GET['n'];
                 $s_n = mysqli_real_escape_string($conn, $n);
                 echo "<li class='index_li_ed'><a href='./auth2.php?ds=security&n=$s_n'>수정</a></li>";
-            }
+            } 
             ?>
         </ul>
         <ul class="security_ul">

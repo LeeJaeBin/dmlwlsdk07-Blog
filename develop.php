@@ -30,7 +30,7 @@
         <?php
             $sql = "SELECT MAX(n) AS alias FROM `develop`";
             $result = mysqli_query($conn, $sql);
-            $row = mysqli_fetch_assoc($result);
+            $row = mysqli_fetch_assoc($result); 
             $cnt = (int)$row['alias'];
             for($i=1;$i<=$cnt;$i++){
                 $s_i = mysqli_real_escape_string($conn, $i);

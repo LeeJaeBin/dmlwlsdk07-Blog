@@ -24,7 +24,7 @@
         <link href="https://cdn.quilljs.com/1.0.0/quill.snow.css" rel="stylesheet">
         <script>
             function write_click(){
-                
+                 
                 var desc = document.getElementById("editor").innerText.replace(/\n/g, "<br>");
                 location.href="write.php?text="+desc+"&title="+document.getElementById("write_title").value+"&category="+document.getElementById("category").value;
             }

@@ -16,5 +16,5 @@
             <p class="index_title">dmlwlsdk07의 공부 블로그</p>
             <div class="index_desc">도메인도 산 김에 잘하진 않지만 이것 저것 공부하는거 기록해 보려고 만들었습니다. 혹시 잘못 적은 부분이 있으면 About에 있는 이메일 주소로 피드백 보내 주세요!</div>
         </div>
-    </body>
+    </body> 
 </html> 

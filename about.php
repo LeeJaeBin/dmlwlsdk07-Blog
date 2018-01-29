@@ -11,7 +11,7 @@
             <li class="index_li"><a href="./develop.php">개발</a></li>
             <li class="index_li"><a href="./about.php">About</a></li>
             <li class="index_li"><a href="./auth.php?ct=wr">글쓰기</a></li>
-        </ul>
+        </ul> 
         <div class="about_contents">
             <div class="about_me">
                 <p class="about_name"><strong>직업</strong> : 보안 관련 공부를 하고 있는 성실하고자 노력하는 고등학생</p>

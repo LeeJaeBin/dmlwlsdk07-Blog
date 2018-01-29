@@ -17,7 +17,7 @@
 ?>
 
 <html>
-    <head>
+    <head> 
         <meta charset="utf-8">
         <link rel="stylesheet" href="main.css">
         <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js" ></script>

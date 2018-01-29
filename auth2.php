@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="main.css">
         <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js" ></script>
     </head>
-    <body>
+    <body> 
         <p class="auth_title">글을 작성하려면 비밀번호를 입력하세요</p>
         <div class="auth_div">
             <form action="" method="post">

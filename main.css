@@ -142,7 +142,7 @@ li.security_li a:hover:not(.active) {
     font-size: 25px;
     padding: 5px;
 }
-.about_contents{
+.about_contents{ 
     width: 60%;
     padding-top: 190px;
     margin-left: auto;
